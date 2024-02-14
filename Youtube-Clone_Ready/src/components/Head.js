@@ -93,6 +93,21 @@ const Head = () => {
           </div>
         )}
       </div>
+        <div className="col-span-1  ">
+        <img
+          className="h-11  "
+          alt="noti-icon"
+          src="https://static.thenounproject.com/png/3282528-200.png"
+        />
+      </div>
+
+      <div className="col-span-1  ">
+        <img
+          className="h-11  "
+          alt="noti-icon"
+          src="https://t4.ftcdn.net/jpg/01/98/33/63/360_F_198336329_D3JsfuSGm5UBTXR9fwcr2WhKNebr7SiB.jpg"
+        />
+      </div>
       <div className="col-span-1">
         <img
           className="h-8"
