@@ -108,7 +108,7 @@ const Head = () => {
           src="https://t4.ftcdn.net/jpg/01/98/33/63/360_F_198336329_D3JsfuSGm5UBTXR9fwcr2WhKNebr7SiB.jpg"
         />
       </div>
-      <div className="col-span-1">
+      <div className="col-span-1 mt-1">
         <img
           className="h-8"
           alt="user-icon"
